@@ -1,0 +1,16 @@
+*
+body
+{
+ padding-top: 40px;   
+ font-family: 'Playfair Display', serif;
+ background-color: #dddbdb;
+}
+.slider{
+
+    height: 700px;
+  
+}
+.photo{
+    height:600px;
+    
+}
