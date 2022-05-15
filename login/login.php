@@ -10,6 +10,6 @@ if($email=="b211210073@sakarya.edu.tr"&&$sifre=="b211210073"){
 }
 else{
     
-    header("location:http://localhost/login/login.html");
+    header("location:http://localhost/login/index.html");
     
 }
