@@ -1,0 +1,68 @@
+*{
+    margin:0; 
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    padding-top: 40px;   
+ font-family: 'Playfair Display', serif;
+ background: url(https://twitter.com/SlymanSakrya/status/726841729467424769/photo/1);
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 100vh;
+
+}
+.app{
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background: rgba(0, 0, 0, .7);
+    
+
+
+}
+.header h1{ 
+    font-size: 50px;
+    color:#c37f78;
+    
+}
+.header input{
+    width: 100%;
+    padding: 10px;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    border-bottom: 2px solid #470e0e;
+    text-align: center;
+    font-size: 20px;
+    color: #faf4f4;}
+
+.city{
+    font-size: 35px;
+    font-weight: 500;
+    border-bottom: 10px;
+    
+
+}
+.desc{
+    font-size: 35px;
+    font-style: normal;
+   
+    margin-bottom: 1%;
+
+}
+
+.temp{
+    font-size: 100px;
+    font-weight: 700;
+    margin-bottom: 1%;
+    
+}
+.minmax{
+    font-size: 24px;
+   
+
+}
+
